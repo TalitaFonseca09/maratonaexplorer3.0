@@ -9,6 +9,16 @@ ul{
     list-style: none;
 }
 
+body{
+    background-image: url(lupulo2.jpg); 
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #995000;
+    background-clip: content-box;
+}
+
+
 /*Fontes*/
 h1, h2, h3, .price{
     font-family: 'Roboto Serif', serif;
